@@ -5,6 +5,9 @@
 
 Professional portfolio website showcasing my expertise in AI and Data Science.
 
+## Access the Application
+You can access the portfolio at the following URL: [Priyaanka Portfolio](https://priyaankareddyb.github.io/priyaanka-portfolio/)
+
 ## Features
 
 - Responsive design that works on all devices
