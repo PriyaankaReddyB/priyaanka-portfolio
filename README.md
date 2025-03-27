@@ -1,6 +1,7 @@
 # Priyaanka Reddy Boothkuri - AI & Data Science Portfolio
 
-![Portfolio Screenshot](./images/profile.jpg)
+<!-- ![Portfolio Screenshot](./images/profile.jpg) -->
+<img src="./images/profile.jpg" width="300" height="300">
 
 Professional portfolio website showcasing my expertise in AI and Data Science.
 
